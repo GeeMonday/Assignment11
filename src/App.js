@@ -13,7 +13,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React today or tommorrow
+          Learn React today
         </a>
       </header>
     </div>
